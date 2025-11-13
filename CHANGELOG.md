@@ -15,3 +15,4 @@ All notable changes to this project will be documented in this file.
 - ref: change LICENSE to CC0 1.0 Universal
 - ref: ignore rfc 
 - add: issue templates
+- ref: redirect issue template config to my contact page
