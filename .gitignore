@@ -1,3 +1,6 @@
+# from my-repository-template
+.github/ISSUE_TEMPLATE/rfc.yml
+
 # off - products templates
 products/
 **/products
