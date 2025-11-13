@@ -12,4 +12,4 @@ All notable changes to this project will be documented in this file.
 
 ### 2025.11.13
 - ref: mobile ready
-- ref: change [LICENSE](LICENSE) to CC0 1.0 Universal
+- ref: change LICENSE to CC0 1.0 Universal
