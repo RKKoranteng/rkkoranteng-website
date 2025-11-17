@@ -16,3 +16,6 @@ All notable changes to this project will be documented in this file.
 - ref: ignore rfc 
 - add: issue templates
 - ref: redirect issue template config to my contact page
+
+### 2025.11.17
+- fix: changed "Back to top" item position from bottom to 90 (instead of 20). [Issue #16](https://github.com/RKKoranteng/rkkoranteng-website/issues/16)
