@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 - link Google forms
 
 ## Changes
-### 2025.11.12
+### 2025.11
 - 11.12 del: obsolete images
 - 11.12 add: new layout and UI
 - 11.12 ref: ignore products template
@@ -18,3 +18,4 @@ All notable changes to this project will be documented in this file.
 - 11.18 ref: change CHANGELOG framework
 - 11.18 add: platform dropdown to bug issue template
 - 11.18 fix: incorrect spelling for validations broke bug issue template
+- 11.18 ref: disable defaults for issue template
