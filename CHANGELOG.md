@@ -19,3 +19,4 @@ All notable changes to this project will be documented in this file.
 - 11.18 add: platform dropdown to bug issue template
 - 11.18 fix: incorrect spelling for validations broke bug issue template
 - 11.18 ref: disable defaults for issue template
+- 11.18 fix: drop down placeholder for affected platform

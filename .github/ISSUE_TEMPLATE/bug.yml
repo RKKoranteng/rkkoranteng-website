@@ -10,6 +10,7 @@ body:
     attributes:
       label: Platform
       options:
+        - "-- Select affected platform --"
         - DB Ops ScoreCard (D.O.S)
         - RKKoranteng.com
       #default: 0
