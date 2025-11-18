@@ -5,6 +5,10 @@ labels: ["bug", "triage"]
 assignees: "rkkoranteng"
 projects: "RKKoranteng/24"
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Short, clear summary (e.g., _“Login page fails when password contains special characters”)._
   - type: dropdown
     id: platform
     attributes:
@@ -16,10 +20,6 @@ body:
       #default: 0
     validations:
       required: true  
-  - type: markdown
-    attributes:
-      value: |
-        Short, clear summary (e.g., _“Login page fails when password contains special characters”)._
   - type: textarea
     id: current-behavior
     attributes:
