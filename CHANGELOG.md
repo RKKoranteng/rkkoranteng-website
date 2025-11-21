@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 - link Google forms
 
 ## Changes
-### 2025.11
+### 2025.11-r1
 - 11.12 del: obsolete images
 - 11.12 add: new layout and UI
 - 11.12 ref: ignore products template
@@ -21,4 +21,6 @@ All notable changes to this project will be documented in this file.
 - 11.18 ref: disable defaults for issue template
 - 11.18 fix: drop down placeholder for affected platform
 - 11.18 ref: change title and drop down positions
+
+### 2025.11-r2
 - 11.20 add: apache 2.0 license
