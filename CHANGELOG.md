@@ -21,3 +21,4 @@ All notable changes to this project will be documented in this file.
 - 11.18 ref: disable defaults for issue template
 - 11.18 fix: drop down placeholder for affected platform
 - 11.18 ref: change title and drop down positions
+- 11.20 add: apache 2.0 license
